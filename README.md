@@ -1,5 +1,5 @@
 <div align="center">
-  <h2 align="center">Hand Gesture Recognition for Contactless Human-Computer Interaction</h2>
+  <h2 align="center">Hand Gesture Recognition</h2>
   <p align="center">
     <img src="https://img.shields.io/badge/Deep%20Learning-blue"/>
     <img src="https://img.shields.io/badge/Computer%20Vision-orange"/>
